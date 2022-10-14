@@ -8,7 +8,7 @@ a = 10
 b = 0.000001
 c = 'string'
 d = 10; e = 0.000001; f = "string";
-g = [1,2]
+
 # This is comment
 print(a,b,c)
 print(d,e,f)
